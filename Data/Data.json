@@ -38,5 +38,13 @@
         "price": "1200",
         "description": "Kindergarten Religion gives the student a basic introduction to God,the Church, and to personal prayer,in part through participation in the Mass and the memorization of the Sign of the Cross, the Our Father, the Hail Mary,the Glory Be, and the Angel of God prayer.",
         "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.allahsword.com%2Ffree_islamic_books_children.html&psig=AOvVaw14ER30XFdMe2g8oj93W_n-&ust=1666901785755000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjCr5zb_voCFQAAAAAdAAAAABAD",
-    }
+    },
+    {
+        "id": "65",
+        "course": "poem",
+        "Duration": "1hr",
+        "price": "1000",
+        "description": "Poetry has always been an attraction for kids. As a parent,you focus on teaching your kids nursery rhymes and poetry for many reasons. Poetry for 2-3 year old kids helps them learn new words and builds their cognitive and creative abilities. However, you may not want to keep your kids limited to some common nursery rhymes.",
+        "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest com%2Fpin%2F80853755785681441%2F&psig=AOvVaw0CJ31cMUkjo070lKuKvIUi ust=1666902072879000&source=images cd=vfeved=0CA0QjRxqFwoTCLjN_K3c_voCFQAAAAAdAAAAABAD.,"
+    },
 ]
