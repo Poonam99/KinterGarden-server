@@ -14,5 +14,13 @@
         "price": "1200",
         "description": "Practice writing অ-ঊ. Practice Bengali names of common relatives eg: Aunt, Uncle, grandma, grandpa.We strongly encourage students and families to use Bengali in daily conversation.Tell us about your favorite animal or bird. 2 facts about that animal or bird(color, food habits, where do they live etc) in Bengali",
         "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fboibichitra.com%2Fproduct%2F----Amar-Bangla-Boi-Ditio-Sreni-X94AA&psig=AOvVaw3CH1DbN76EfUed_BwpwxXB&ust=1666901292208000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKiAzLjZ_voCFQAAAAAdAAAAABAD",
-    }
+    },
+    {
+        "id": "266",
+        "course": "Math",
+        "Duration": "1hr",
+        "price": "2200",
+        "description": "Kindergarten math lessons focus on number sense to 100. Students will focus on counting one to one correspondence, writing numbers, sequence of events, exploring basic addition and subtraction through literature and songs, spatial reasoning skills, sorting, patterns, and basic shapes.",
+        "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FKindergarten-Maths-Practice-Dreamland-Publications%2Fdp%2F9350899574&psig=AOvVaw1n5qQ7l5qTeOsSe3aaG8ex&ust=1666901455268000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJC47fvZ_voCFQAAAAAdAAAAABAD",
+    },
 ]
