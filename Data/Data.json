@@ -30,5 +30,13 @@
         "price": "1200",
         "description": "What is the purpose of general knowledge? It gives the students a chance to enhance their knowledge of various national and international events of the world. General Knowledge or GKplays a major role in every students' life as most of the competitive exams ask various questions based on general knowledge",
         "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FPlaygroup-GK-General-Knowledge-Book%2Fdp%2FB083CM583T&psig=AOvVaw2C9jeiwPBu_18gFcESOlFK&ust=1666901675479000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIi6y-Pa_voCFQAAAAAdAAAAABAD",
+    },
+    {
+        "id": "26",
+        "course": "Dhormo",
+        "Duration": "1hr",
+        "price": "1200",
+        "description": "Kindergarten Religion gives the student a basic introduction to God,the Church, and to personal prayer,in part through participation in the Mass and the memorization of the Sign of the Cross, the Our Father, the Hail Mary,the Glory Be, and the Angel of God prayer.",
+        "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.allahsword.com%2Ffree_islamic_books_children.html&psig=AOvVaw14ER30XFdMe2g8oj93W_n-&ust=1666901785755000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjCr5zb_voCFQAAAAAdAAAAABAD",
     }
 ]
